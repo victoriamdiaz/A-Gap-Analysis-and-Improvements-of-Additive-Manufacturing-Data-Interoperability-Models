@@ -1,6 +1,6 @@
 **Project Abstract**
 
-Additive manufacturing is a sophisticated technology generating and using BIG data. The Common Data Dictionary (CDD) and Common Data Model (CDM) define the vocabulary and data models for AM data integration and exchange to improve the interoperability of AM data.
+Additive manufacturing is a sophisticated technology generating and using a significant amount of data. The Common Data Dictionary (CDD) and Common Data Model (CDM) define the vocabulary and data models for AM data integration and exchange to improve the interoperability of AM data.
 
 NIST has been working to newly develop the CDM, a formalized model for the CDD. Problematically, the definitions in the CDM may not completely follow the CDD standards. 
 
