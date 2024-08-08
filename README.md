@@ -10,3 +10,8 @@ Such a gap analysis is achieved through the development of a python tool that de
 
 The result is an automated procedure to compare data in different formats and capture their differences. The documentation of the inconsistencies provides insight into areas of weakness of the CDM and opportunities for revision to maximize interoperability of AM data.
 
+**Experience**
+
+One major takeaway from this project development process is that this framework will be critical for systems control by ensuring standardized data flow and enabling interoperability for systems integration.
+
+While collaborating with an advanced team working on developing digital manufacturing processes, I received training and gained an understanding of additive manufacturing systems.
